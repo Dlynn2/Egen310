@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Egen310Car</string>
+    <string name="rx">rx</string>
+    <string name="read_buffer">read_buffer</string>
+    <string name="status">status</string>
+    <string name="bluetooth_status">bluetooth_status</string>
+    <string name="bluetooth_on">bluetooth_on</string>
+    <string name="bluetooth_off">bluetooth_off</string>
+    <string name="show_paired_devices">show_paired_devices</string>
+    <string name="discover_new_devices">discover_new_devices</string>
+    <string name="forward">forward</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="back">back</string>
+    <string name="stop">stop</string>
+</resources>
